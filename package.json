@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@amcharts/amcharts5": "^5.9.10",
+        "@amcharts/amcharts5-geodata": "^5.1.2",
+        "@inertiajs/vue3": "^1.1.0",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "highcharts-vue": "^2.0.1",
+        "laravel-echo": "^1.16.1",
+        "pusher-js": "^8.4.0-rc2"
+    }
+}
